@@ -42,6 +42,7 @@ System - Windows 7 or higher, 1 GB RAM.
 ## Output:
 
 CAD File Preparation
+
 ![Screenshot (272)](https://github.com/VelasiriSreeja/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118344328/4959a0c4-9c14-4d80-9671-acc4fcc11773)
 
 
@@ -92,4 +93,4 @@ Grid path planning : It is also known as grid infill or grid pattern, is a techn
 ### Register Number:212222230169
 
 ## Result: 
-### Thus the simulation on the Preprocessing in additive manufacturing is completed.
+Thus the simulation on the Preprocessing in additive manufacturing is completed.
